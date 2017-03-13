@@ -2,7 +2,7 @@
 # **个人简历**
 
 
-**姓    名：  韦 瑞 哲**
+**姓    名：  韦 瑞 哲
 
 **性    别：  男**
 
@@ -29,20 +29,20 @@
 
 ## **工作经历**
 
-- 2014年毕业于沈阳师范大学，就读软件工程专业。
+- 2013年9月-2014年6月 新浪实习一年，从事前端开发。
 
-- 2013年9月-2014年6月新浪实习一年。
+- 2014年 毕业于沈阳师范大学，就读软件工程专业。
 
-- 2014年7月-2016年3月在猎豹移动（原金山网络）从事前端开发，任前端开发工程师。
+- 2014年7月-2016年3月 猎豹移动（原金山网络）从事前端开发，任前端开发工程师。
 
-- 2016年3月-至今在百度从事前端开发，任高级研发工程师。
+- 2016年3月-至今 百度从事前端开发，任高级研发工程师。
 		
 
 ## **专业技能**
 
 - 精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
 
-- 熟悉前端延伸react全家桶（react-router、redux、react-native），前端性能优化，node服务端渲染等。
+- 熟悉react全家桶（react-router、redux、react-native），前端性能优化，node服务端渲染等。
 
 - 熟悉框架开发、模块化开发、团队开发（jquery/zepto，grunt/gulp/webpack，git等），熟悉前后端开发流程、自动化开发上线。
 
@@ -127,7 +127,7 @@
     
     - 猎豹移动产品介绍：[http://www.cmcm.com](http://www.cmcm.com/)
     
-    - 个人基于wordpress搭建：[http://ad.cmcm.com](http://ad.cmcm.com)
+    - 猎户广告平台官网（个人基于wordpress搭建）：[http://ad.cmcm.com](http://ad.cmcm.com)
     
  7. **猎户广告投放系统**
  
@@ -137,9 +137,7 @@
     
     - 基于大数据面向国内外广告主提供精确广告投放服务的系统平台。
     
-    - 针对于多个国家地区的不同受众快速创建广告，精准投放高效的广告。
-    
-    - 负责系统的广告创建逻辑，广告管理模块，数据报表呈现，资金充值管理，以及后台管理员平台的开发。
+    - 负责系统的广告创建逻辑，广告管理模块，数据报表呈现，资金充值管理，以及后台管理员平台等主要模块开发。
     
     - 入口[http://ori.cmcm.com](http://ori.cmcm.com/)
     
@@ -158,7 +156,7 @@
         * 公司简介展示h5动画：[http://cn.cmcm.com/activity/introduction](http://cn.cmcm.com/activity/introduction)
         * 抢票展示h5动画：[http://cn.cmcm.com/activity/qp201412](http://cn.cmcm.com/activity/qp201412)
         * 产品功能展示h5动画：[http://cn.cmcm.com/activity/cm-qlpd](http://cn.cmcm.com/activity/cm-qlpd)
-        * 新浪微博开放平台某应用：[http://apps.weibo.com/wumaitesta](http://apps.weibo.com/wumaitesta)
+        * 新浪微博开放平台应用：[http://apps.weibo.com/wumaitesta](http://apps.weibo.com/wumaitesta)
         
     - 摄影类：http://m.yijiapai.net（源码[https://github.com/w724883/projects/tree/master/yijiapai](https://github.com/w724883/projects/tree/master/yijiapai)）
     
@@ -170,6 +168,6 @@
     
     - 新浪视频：视频资源播放类平台，为用户提供视频播放服务。[http://video.sina.com.cn](http://video.sina.com.cn)
     
-    - 手机新浪网“让红包飞”：手机新浪网和新浪微博发起的新年奖活动。[http://3g.sina.com.cn/?vt=4](http://3g.sina.com.cn/?vt=4) [http://2014.weibo.cn](http://2014.weibo.cn)
+    - 手机新浪网“让红包飞”：手机新浪网和新浪微博发起的新年抽奖活动。[http://3g.sina.com.cn/?vt=4](http://3g.sina.com.cn/?vt=4) [http://2014.weibo.cn](http://2014.weibo.cn)
     
-    - 新浪媒体开放平台：为媒体提供内容、数据、运营等平台化服务，以及为自媒体提供多终端推广和用户群推荐服务的平台。[http://mp.sina.com.cn](http://mp.sina.com.cn)
+    - 新浪媒体开放平台：为媒体提供内容、数据、运营等平台化服务，为自媒体提供多终端推广和用户群推荐服务的平台。[http://mp.sina.com.cn](http://mp.sina.com.cn)
