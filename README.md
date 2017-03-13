@@ -24,7 +24,7 @@
 
 **电子信箱：  806944687@qq.com**
 
-![头像](https://raw.githubusercontent.com/w724883/learn/master/head.jpg)
+![头像](https://raw.githubusercontent.com/w724883/me/master/me.jpg)
 
 
 ## **工作经历**
