@@ -157,8 +157,6 @@
         * 抢票展示h5动画：[http://cn.cmcm.com/activity/qp201412](http://cn.cmcm.com/activity/qp201412)
         * 产品功能展示h5动画：[http://cn.cmcm.com/activity/cm-qlpd](http://cn.cmcm.com/activity/cm-qlpd)
         * 新浪微博开放平台应用：[http://apps.weibo.com/wumaitesta](http://apps.weibo.com/wumaitesta)
-        
-    - 摄影类：http://m.yijiapai.net（源码[https://github.com/w724883/projects/tree/master/yijiapai](https://github.com/w724883/projects/tree/master/yijiapai)）
     
  9. **新浪网项目**
  
