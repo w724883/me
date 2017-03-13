@@ -10,8 +10,6 @@
 
 **学    历：  本科**
 
-**籍    贯：  广西**
-
 **专    业：  软件工程**
 
 **工作经验：  三年以上**
@@ -55,7 +53,9 @@
 
 ## **项目经历**
 
- 1. **鲜花预约**
+### 百度项目
+
+1. **鲜花预约**
 
     角色：前端负责人
 
@@ -67,7 +67,7 @@
     
     - 入口（糯米商家app->鲜花）
     
- 2. **电子菜单/推荐菜单**
+2. **电子菜单/推荐菜单**
     
     角色：前端负责人
 
@@ -81,7 +81,7 @@
     
     - 推荐菜单入口bainuo://component?compid=t10recommend&comppage=list&merchantId=1685873（使用app扫描二维码）
     
- 3. **到店付**
+3. **到店付**
     
     角色：前端负责人
 
@@ -93,7 +93,7 @@
     
     - 入口[https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)（使用app扫描二维码）
     
- 4. **在线点菜**
+4. **在线点菜**
  
     角色：前端负责人
 
@@ -107,7 +107,7 @@
     
     - 入口[https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308](https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308)（使用app扫码二维码）
     
- 5. **虚拟门店**
+5. **虚拟门店**
  
     角色：前端负责人
 
@@ -118,8 +118,10 @@
     - 通过调用端上能力实现定制化需求，类似hybrid
     
     - 入口bainuo://component?compid=t10brands&comppage=brands（使用app扫码二维码）
+
+### 猎豹移动项目
     
- 6. **猎豹移动官网**
+1. **猎豹移动官网**
  
     角色：前端开发
 
@@ -129,7 +131,7 @@
     
     - 猎户广告平台官网（个人基于wordpress搭建）：[http://ad.cmcm.com](http://ad.cmcm.com)
     
- 7. **猎户广告投放系统**
+2. **猎户广告投放系统**
  
     角色：前端开发
 
@@ -141,7 +143,7 @@
     
     - 入口[http://ori.cmcm.com](http://ori.cmcm.com/)
     
- 8. **兴趣开发**
+3. **兴趣开发**
  
     时间：2015.01 - 2016.12
 
@@ -157,8 +159,10 @@
         * 抢票展示h5动画：[http://cn.cmcm.com/activity/qp201412](http://cn.cmcm.com/activity/qp201412)
         * 产品功能展示h5动画：[http://cn.cmcm.com/activity/cm-qlpd](http://cn.cmcm.com/activity/cm-qlpd)
         * 新浪微博开放平台应用：[http://apps.weibo.com/wumaitesta](http://apps.weibo.com/wumaitesta)
-    
- 9. **新浪网项目**
+
+### 新浪项目
+
+1. **新浪网项目**
  
     角色：前端开发
 
