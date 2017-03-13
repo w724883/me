@@ -1,62 +1,62 @@
 
-# <div align=center><center>**个人简历**</center></div>
+# **个人简历**
 
 
+**姓    名：  韦 瑞 哲**
 
->姓    名：  韦 瑞 哲
+**性    别：  男**
 
->性    别：  男	 
+**出生年月：  1990.12.13**
 
->出生年月：  1990.12.13
+**学    历：  本科**
 
->学    历：  本科
+**籍    贯：  广西**
 
->籍    贯：  广西
+**专    业：  软件工程**
 
->专    业：  软件工程
+**工作经验：  三年以上**
 
->工作经验：  三年以上
+**毕业学校：  沈阳师范大学**
 
->毕业学校：  沈阳师范大学
+**联系电话：  15611054983**
 
->联系电话：  15611054983
+**现    居：  北京**
 
->现    居：  北京
+**电子信箱：  806944687@qq.com**
 
->电子信箱：  806944687@qq.com
-
->![头像](https://raw.githubusercontent.com/w724883/learn/master/head.jpg)
+![头像](https://raw.githubusercontent.com/w724883/learn/master/head.jpg)
 
 
-### **工作经历**
+## **工作经历**
 
-2014年毕业于沈阳师范大学，就读软件工程专业。
+- 2014年毕业于沈阳师范大学，就读软件工程专业。
 
-2013年9月-2014年6月新浪实习一年。
+- 2013年9月-2014年6月新浪实习一年。
 
-2014年7月-2016年3月在猎豹移动（原金山网络）从事前端开发，任前端开发工程师。
+- 2014年7月-2016年3月在猎豹移动（原金山网络）从事前端开发，任前端开发工程师。
 
-2016年3月-至今在百度从事前端开发，任高级研发工程师。
+- 2016年3月-至今在百度从事前端开发，任高级研发工程师。
 		
 
-### **专业技能**
+## **专业技能**
 
-精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
+- 精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
 
-熟悉前端延伸react全家桶（react-router、redux、react-native），前端性能优化，node服务端渲染等。
+- 熟悉前端延伸react全家桶（react-router、redux、react-native），前端性能优化，node服务端渲染等。
 
-熟悉框架开发、模块化开发、团队开发（jquery/zepto，grunt/gulp/webpack，git等），熟悉前后端开发流程、自动化开发上线。
+- 熟悉框架开发、模块化开发、团队开发（jquery/zepto，grunt/gulp/webpack，git等），熟悉前后端开发流程、自动化开发上线。
 
-熟悉后端php、nodejs。
+- 熟悉后端php、nodejs。
 
-带领新人，项目组长，项目owner，cover团队业务。
+- 带领新人，项目组长，项目owner，cover团队业务。
 
-热爱前端，热爱全栈开发，热衷挑战问题。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
+- 热爱前端，热爱全栈开发，热衷挑战问题。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
 
 
-### **项目经历**
+## **项目经历**
 
- 1. 鲜花预约
+ 1. **鲜花预约**
+
     角色：前端负责人
 
     时间：2016.10 - 2017.01
@@ -67,7 +67,7 @@
     
     - 入口（糯米商家app->鲜花）
     
- 2. 电子菜单/推荐菜单
+ 2. **电子菜单/推荐菜单**
     
     角色：前端负责人
 
@@ -81,7 +81,7 @@
     
     - 推荐菜单入口bainuo://component?compid=t10recommend&comppage=list&merchantId=1685873（使用app扫描二维码）
     
- 3. 到店付
+ 3. **到店付**
     
     角色：前端负责人
 
@@ -93,7 +93,7 @@
     
     - 入口[https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)（使用app扫描二维码）
     
- 4. 在线点菜
+ 4. **在线点菜**
  
     角色：前端负责人
 
@@ -107,7 +107,7 @@
     
     - 入口[https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308](https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308)（使用app扫码二维码）
     
- 5. 虚拟门店
+ 5. **虚拟门店**
  
     角色：前端负责人
 
@@ -119,7 +119,7 @@
     
     - 入口bainuo://component?compid=t10brands&comppage=brands（使用app扫码二维码）
     
- 6. 猎豹移动官网
+ 6. **猎豹移动官网**
  
     角色：前端开发
 
@@ -129,7 +129,7 @@
     
     - 个人基于wordpress搭建：[http://ad.cmcm.com](http://ad.cmcm.com)
     
- 7. 猎户广告投放系统
+ 7. **猎户广告投放系统**
  
     角色：前端开发
 
@@ -143,7 +143,7 @@
     
     - 入口[http://ori.cmcm.com](http://ori.cmcm.com/)
     
- 8. 兴趣开发
+ 8. **兴趣开发**
  
     时间：2015.01 - 2016.12
 
@@ -162,7 +162,7 @@
         
     - 摄影类：http://m.yijiapai.net（源码[https://github.com/w724883/projects/tree/master/yijiapai](https://github.com/w724883/projects/tree/master/yijiapai)）
     
- 9. 新浪网项目
+ 9. **新浪网项目**
  
     角色：前端开发
 
