@@ -22,6 +22,8 @@
 
 **电子信箱：  806944687@qq.com**
 
+**线上简历：  [https://github.com/w724883/me/blob/master/README.md](https://github.com/w724883/me/blob/master/README.md)**
+
 ![头像](https://raw.githubusercontent.com/w724883/me/master/me.jpg)
 
 
@@ -40,38 +42,26 @@
 
 - 精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
 
-- 熟悉react全家桶（react-router、redux、react-native），前端性能优化，node服务端渲染等。
+- 熟悉react全家桶（react-router、redux、react-native），sass/less，node server渲染，jquery/zepto，webpack/gulp/grunt，git，等。
 
-- 熟悉框架开发、模块化开发、团队开发（jquery/zepto，grunt/gulp/webpack，git等），熟悉前后端开发流程、自动化开发上线。
+- 熟悉前端性能优化，http协议，web&mobile开发，前端可维护性兼容性，web安全等。
 
-- 熟悉后端php、nodejs。
+- 熟悉组件化开发、工程化开发、模块化开发，熟悉前后端开发流程、自动化开发上线，良好的项目管理、需求技术评审、团队协作开发能力。
 
-- 项目组长，项目owner，cover团队业务，带领新人。
+- 熟悉后端nodejs开发(express)，php(laravel)。
 
-- 热爱前端，热爱全栈开发，热衷挑战问题。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
+- 带领新人，项目组长，项目owner，cover团队业务。
+
+- 热爱前端，热爱全栈开发，热衷挑战新技术。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
 
 
 ## **项目经历**
 
 ### 百度项目
-
-1. **鲜花预约**
-
-    角色：前端负责人
-
-    时间：2016.10 - 2017.01
     
-    - 鲜花预约B端商家业务
-    
-    - 为鲜花预约商家提供批量设置、自动接单、一键验券、B端管理等功能
-    
-    - 入口（糯米商家app->鲜花）
-    
-2. **电子菜单/推荐菜单**
+1. **电子菜单 & 推荐菜单**(2016.06 - 2017.02)
     
     角色：前端负责人
-
-    时间：2016.06 - 2017.01
     
     - 糯米电子菜单、推荐菜单业务
     
@@ -81,71 +71,56 @@
     
     - 推荐菜单入口bainuo://component?compid=t10recommend&comppage=list&merchantId=1685873（使用app扫描二维码）
     
-3. **到店付**
+2. **到店付**(2016.06 - 2016.11)
     
     角色：前端负责人
-
-    时间：2016.06 - 2016.12
     
-    - 糯米到店付（优惠买单）业务
+    - 糯米C端到店付（优惠买单）业务
     
-    - 用户可以在线上直接对商品进行支付
+    - 用户在线上可以直接对商品进行买单
     
     - 入口[https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)（使用app扫描二维码）
     
-4. **在线点菜**
+3. **在线点菜**(2016.04 - 2016.12)
  
     角色：前端负责人
-
-    时间：2016.04 - 2016.12
     
     - 糯米在线点菜C端业务、B端业务
     
     - 用户可以通过在线点菜完成选择、下单、付款、评价等操作
     
     - 商家可以通过B端系统进行订单管理、店铺装修、门店设置等操作
-    
-    - 入口[https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308](https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308)（使用app扫码二维码）
-    
-5. **虚拟门店**
- 
-    角色：前端负责人
 
-    时间：2016.04 - 2016.07
+    - 通过调用端上能力实现定制化需求，hybrid技术
     
-    - 为类似KFC等品牌门店在客户端上提供个性化店铺展示
+    - C端入口[https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308](https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308)（使用app扫码二维码）
     
-    - 通过调用端上能力实现定制化需求，类似hybrid
+    - B端入口[https://mct.y.nuomi.com/index?page=true](https://mct.y.nuomi.com/index?page=true)
+
+4. **其他开发**(2016.04 - 2017.03)
+
+    角色：前端开发
     
-    - 入口bainuo://component?compid=t10brands&comppage=brands（使用app扫码二维码）
+    - 糯米商户版app鲜花预约业务
+    
+    - 虚拟门店（为类似KFC等品牌门店在客户端上提供个性化店铺展示）：bainuo://component?compid=t10brands&comppage=brands（使用app扫码二维码）
+
+    - 百度VIP（返利商城）：[http://vip.baidu.com/](http://vip.baidu.com/)
+
 
 ### 猎豹移动项目
     
-1. **猎豹移动官网**
+1. **猎豹移动官网 & 猎户广告系统**(2014.08 - 2016.02)
  
     角色：前端开发
-
-    时间：2015.02 - 2016.02
     
     - 猎豹移动产品介绍：[http://www.cmcm.com](http://www.cmcm.com/)
+
+    - 猎户广告投放系统（基于大数据面向国内外广告主提供精确广告投放服务的系统平台）：[http://ori.cmcm.com](http://ori.cmcm.com/)
     
     - 猎户广告平台官网（个人基于wordpress搭建）：[http://ad.cmcm.com](http://ad.cmcm.com)
     
-2. **猎户广告投放系统**
- 
-    角色：前端开发
-
-    时间：2015.01 - 2016.02
-    
-    - 基于大数据面向国内外广告主提供精确广告投放服务的系统平台。
-    
-    - 负责系统的广告创建逻辑，广告管理模块，数据报表呈现，资金充值管理，以及后台管理员平台等主要模块开发。
-    
-    - 入口[http://ori.cmcm.com](http://ori.cmcm.com/)
-    
-3. **兴趣开发**
- 
-    时间：2015.01 - 2016.12
+2. **兴趣开发**(2014.12 - 2016.04)
 
     - 商城类（react+router+redux+webpack）：[http://www.ijuanshi.com](http://www.ijuanshi.com/)（移动端）
     
@@ -162,11 +137,9 @@
 
 ### 新浪项目
 
-1. **新浪网项目**
+1. **新浪网项目**(2013.09 - 2014.06)
  
     角色：前端开发
-
-    时间：2013.09 - 2014.05
     
     - 新浪视频：视频资源播放类平台，为用户提供视频播放服务。[http://video.sina.com.cn](http://video.sina.com.cn)
     
