@@ -18,8 +18,6 @@
 
 **联系电话：  15611054983**
 
-**现    居：  北京**
-
 **电子信箱：  806944687@qq.com**
 
 **线上简历：  [https://github.com/w724883/me/blob/master/README.md](https://github.com/w724883/me/blob/master/README.md)**
