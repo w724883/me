@@ -40,7 +40,7 @@
 
 - 精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
 
-- 熟悉react全家桶（react-router、redux、react-native），sass/less，node server渲染，jquery/zepto，webpack/gulp/grunt，git，ajax等。
+- 熟悉react全家桶（react-router、redux、react-native），sass/less，node server渲染，jquery/zepto，webpack/gulp/grunt，requirejs，git，ajax等。
 
 - 熟悉前端性能优化，http协议，web&mobile开发，前端可维护性兼容性，web安全等。
 
