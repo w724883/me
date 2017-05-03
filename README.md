@@ -38,23 +38,31 @@
 
 - 精通前端技术html/css、javascript(es5/es6)、html5/css3/canvas等。
 
-- 熟悉react全家桶（react-router、redux、react-native），sass/less，node server渲染，jquery/zepto，webpack/gulp/grunt，requirejs，git，ajax等。
+- 熟悉react全家桶（react-router、redux、react-native），sass/less，jquery/zepto，webpack/gulp/grunt，svn/git，ajax等。
 
-- 熟悉前端性能优化，http协议，web&mobile开发，前端可维护性兼容性，web安全等。
+- 熟悉前端性能优化，web&mobile开发，前端可维护性兼容性，web安全，http等。
 
-- 熟悉组件化开发、工程化开发、模块化开发，熟悉前后端开发流程、自动化开发上线，良好的项目管理、需求技术评审、团队协作开发能力。
+- 熟悉组件化开发、工程化开发、模块化开发，前后端开发流程、自动化开发上线，良好的项目管理、需求技术评审、团队协作开发能力。
 
-- 熟悉后端nodejs开发(express)，php(laravel)。
+- 后端nodejs开发(express)、node server渲染，懂php。
 
 - 带领新人，项目组长，项目owner，cover团队业务。
 
-- 热爱前端，热爱全栈开发，热衷挑战新技术。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
+- 热爱前端，喜欢全栈开发，热衷挑战新技术。乐于交流善于沟通，热情诚恳积极向上，高效学习高效工作。
 
 ## **项目经历**
 
 ### 百度开发项目
+
+1. **百度度秘**  (前端开发 | 2017.02 - 2017.05)
+
+    - 百度度秘客户端对话流开发
+
+    - 度秘是基于DuerOS操作系统推出的对话式人工智能秘书
+
+    - 入口度秘APP
     
-1. **电子菜单 & 推荐菜单**  (前端负责人 | 2016.06 - 2017.02)
+2. **电子菜单 & 推荐菜单**  (前端负责人 | 2016.06 - 2017.02)
         
     - 糯米电子菜单、推荐菜单业务
     
@@ -64,7 +72,7 @@
     
     - 推荐菜单入口bainuo://component?compid=t10recommend&comppage=list&merchantId=1685873（使用app扫码）
     
-2. **到店付**  (前端负责人 | 2016.06 - 2016.11)
+3. **到店付**  (前端负责人 | 2016.06 - 2016.11)
     
     - 糯米C端到店付（优惠买单）业务
     
@@ -72,7 +80,7 @@
     
     - 入口[https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)（使用app扫码）
     
-3. **在线点菜**  (前端负责人 | 2016.04 - 2016.12)
+4. **在线点菜**  (前端负责人 | 2016.04 - 2016.12)
     
     - 糯米在线点菜C端业务、B端业务
     
