@@ -30,7 +30,7 @@
 
 - 2014年7月-2016年3月 猎豹移动（原金山网络）从事前端开发，任前端开发工程师。
 
-- 2016年3月-至今 百度从事前端开发，任高级研发工程师。
+- 2016年3月至今 百度从事前端开发，任高级研发工程师。
 
 ## **专业技能**
 
@@ -50,7 +50,7 @@
 
 ## **项目经历**
 
-### 百度开发项目
+#### 百度开发项目 (2016.03 - now)
 
 1. **百度度秘（DuerOS客户端）**  (前端客户端开发 | 2017.02 - 2017.05)
 
@@ -74,7 +74,7 @@
     
     - C端入口[https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308](https://t10ocs.nuomi.com/diancaiui/wap/dishlist?merchant_id=32074308)（糯米app扫码），B端入口[https://mct.y.nuomi.com/index?page=true](https://mct.y.nuomi.com/index?page=true)
 
-### 猎豹移动项目 (前端开发 | 2014.08 - 2016.02)
+#### 猎豹移动项目 (前端开发 | 2014.08 - 2016.02)
 
 1. 猎豹移动官方网站：[http://www.cmcm.com](http://www.cmcm.com/)
 
@@ -82,7 +82,7 @@
     
 3. 猎户广告平台官网：[http://ad.cmcm.com](http://ad.cmcm.com)
     
-### 其他开发项目 (2014.12 - 2017.03)
+#### 其他开发项目 (2014.12 - 2017.03)
 
 1. 商城类（react+router+redux+webpack）：[http://www.ijuanshi.com](http://www.ijuanshi.com/)（移动端）
 
@@ -102,7 +102,7 @@
     * 产品功能展示动画：[http://cn.cmcm.com/activity/cm-qlpd](http://cn.cmcm.com/activity/cm-qlpd)
     * 微博开放平台应用：[http://apps.weibo.com/wumaitesta](http://apps.weibo.com/wumaitesta)
 
-### 新浪开发项目 (前端开发 | 2013.09 - 2014.06)
+#### 新浪开发项目 (前端开发 | 2013.09 - 2014.06)
     
 1. 新浪视频：视频资源播放类平台，为用户提供视频播放服务。[http://video.sina.com.cn](http://video.sina.com.cn)
 2. 手机新浪网：[http://3g.sina.com.cn/?vt=4](http://3g.sina.com.cn/?vt=4)
