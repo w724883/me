@@ -22,6 +22,8 @@
 
 **线上简历：**  [https://github.com/w724883/me/blob/master/README.md](https://github.com/w724883/me/blob/master/README.md)
 
+![韦瑞哲](https://raw.githubusercontent.com/w724883/me/master/me.jpg)
+
 ## **工作经历**
 
 - 2013年9月-2014年6月 新浪实习近一年，从事前端开发。
