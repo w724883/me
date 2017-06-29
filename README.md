@@ -1,4 +1,3 @@
-
 # **个人简历**
 
 
@@ -58,17 +57,21 @@
 
     - 度秘是基于百度DuerOS系统推出的人工智能秘书
 
-    - 度秘是DuerOS的能力输出的一个案例，我们还下发集成了DuerOS能力的SDK，使其他应用开发者能将能力集成到自己的应用中
+    - 度秘是DuerOS能力输出的一个sample，我们还下发集成了DuerOS能力的SDK，使其他应用开发者能将能力集成到自己的应用中
 
-    - 入口[http://open.duer.baidu.com/openduer](http://open.duer.baidu.com/openduer)
+2. **小度之家app**  (前端客户端开发 | 2017.04 - 2017.07)
+
+    - 小度之家app是人与机器交互的核心，以及为连接的设备提供丰富的数据
+
+    - 通过小度之家控制电视、音响等设备，并且为设备提供DuerOS系统的能力如语音对话、数据搜索等
     
-2. **电子菜单 & 推荐菜单**  (前端负责人 | 2016.06 - 2017.02)
+3. **电子菜单 & 推荐菜单**  (前端负责人 | 2016.06 - 2017.02)
 
     - 由爬虫抓取线上菜品，形成自有菜品库，通过特定清洗，为商家和用户提供丰富的菜品参考信息
     
     - 电子菜单入口bainuo://component?compid=t10emenu&comppage=dishlist&merchant_id=1685873（糯米app扫码），推荐菜单入口bainuo://component?compid=t10recommend&comppage=list&merchantId=1685873（糯米app扫码）
     
-3. **在线点菜**  (前端负责人 | 2016.04 - 2016.12)
+4. **在线点菜**  (前端负责人 | 2016.04 - 2016.12)
     
     - 用户可以通过在线点菜完成决策、下单、付款、评价等操作，商家可以通过B端系统进行订单管理、店铺装修、门店设置等操作
 
@@ -88,12 +91,12 @@
 
 1. 商城类（react+router+redux+webpack）：[http://www.ijuanshi.com](http://www.ijuanshi.com/)（移动端）
 
-2. 糯米客户端类：
+2. 糯米客户端：
     * 到店付（用户到店直接对商品进行支付）：[https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)（糯米app扫码）
     * 虚拟门店（为类似KFC等品牌门店在客户端上提供个性化店铺展示）：bainuo://component?compid=t10brands&comppage=brands（糯米app扫码）
     * 糯米鲜花预约，入口：糯米商户版app
     
-3. h5动画展示类：
+3. h5动画展示：
     * 橙色大巴（活动报名、筛选、查询）：[http://api.liebao.cn/market/bus2015](http://api.liebao.cn/market/bus2015)
     * 金山团购移动端：[http://m.tuan.duba.com/new_index](http://m.tuan.duba.com/new_index)
     * 摇一摇游戏动画：[http://cn.cmcm.com/activity/cm-shake](http://cn.cmcm.com/activity/cm-shake)
