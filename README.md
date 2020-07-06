@@ -60,8 +60,6 @@
     5. **[虚拟店铺](bainuo://component?compid=t10brands&comppage=brands)**（为KFC等品牌提供个性化店铺展示）
 
 - **2014年7月-2016年3月** 猎豹移动，任前端开发工程师。
-
-  * 项目经历：
     1. **[猎豹移动官网](https://www.cmcm.com/)**
     2. **[猎户广告投放系统](https://ori.cmcm.com/)**（基于大数据面向国内外广告主提供精确广告投放服务的系统平台）
     3. **动画**：[公司简介](http://cn.cmcm.com/activity/introduction)、[橙色大巴](http://api.liebao.cn/market/bus2015)、[摇一摇](http://cn.cmcm.com/activity/cm-shake)、[产品展示](http://cn.cmcm.com/activity/cm-save-space-201503)、[数据展示](http://cn.cmcm.com/activity/financial-results/2014-q4)、[抢票](http://cn.cmcm.com/activity/qp201412)、[产品功能](http://cn.cmcm.com/activity/cm-qlpd)
