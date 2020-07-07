@@ -40,7 +40,7 @@
 - **2017年11月-至今** **阿里巴巴**，高级前端工程师。
 
   * 融媒体：
-    1. **IM建设**：APP端h5开发、统一登录注册、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、风控平台、会议
+    1. **IM建设**：APP端h5开发、统一登录注册、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops信息管理运营系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、风控平台、会议
     2. **商城建设**：[商城管理系统](https://shangcheng.xuexi.cn/bmall/index.html)（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）,[APP商城C端](https://mall.xuexi.cn/index.html)（列表、抢购、详情、下单、支付）
     3. **基础建设**：BFF建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
       
