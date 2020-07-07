@@ -39,7 +39,7 @@
 
 ## **工作经历**
 
-- **2017年11月-至今** 阿里巴巴，任高级前端工程师。
+- **2017年11月-至今** 阿里巴巴，高级前端工程师。
 
   * 手机淘宝：
     1. **手淘标签**（前端负责人）：命运石搭建平台建设，使标签平台化承接多业务方。使用端计算做推荐算法，增加导购转化率。
@@ -52,7 +52,7 @@
     2. **商城建设**：C端（列表、抢购、详情、下单、支付），B端（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）
     3. **基础建设**：BFF层建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
 
-- **2016年3月-2017年11月** 百度，任职度秘事业部高级研发工程师。
+- **2016年3月-2017年11月** 百度，度秘事业部高级研发工程师。
 
   * 度秘项目：
     1. **小度之家**(前端负责人)：通过小度之家app控制电视、音响等设备，并且为智能设备提供DuerOS系统能力，如语音对话、数据搜索等丰富的能力。
@@ -66,7 +66,7 @@
     4. **[到店付](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)**（到店对商品进行支付）
     5. **[虚拟店铺](bainuo://component?compid=t10brands&comppage=brands)**（为KFC等品牌提供个性化店铺展示）
 
-- **2014年7月-2016年3月** 猎豹移动，任前端开发工程师。
+- **2014年7月-2016年3月** 猎豹移动，前端开发工程师。
     1. **[猎户广告投放系统](https://ori.cmcm.com/)**（基于大数据面向国内外广告主提供精确广告投放服务的系统平台）
     2. **[猎豹移动官网](https://www.cmcm.com/)**
     3. **动画**：[公司简介](http://cn.cmcm.com/activity/introduction)、[橙色大巴](http://api.liebao.cn/market/bus2015)、[摇一摇](http://cn.cmcm.com/activity/cm-shake)、[产品展示](http://cn.cmcm.com/activity/cm-save-space-201503)、[数据展示](http://cn.cmcm.com/activity/financial-results/2014-q4)、[抢票](http://cn.cmcm.com/activity/qp201412)、[产品功能](http://cn.cmcm.com/activity/cm-qlpd)
