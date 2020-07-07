@@ -21,17 +21,17 @@
 
 ## **专业技能**
 
-- 精通前端技术html/html5、css/css3、js/es6、http等。
+- 精通前端技术html/html5、css/css3、js(es6)、http(ajax)等。
 
-- 精通react全家桶（router、redux），vue全家桶（router、vuex），webpack/gulp，ts，sass/less等。
+- 精通react全家桶（router、redux），vue全家桶（router、vuex），webpack/gulp，ts，sass/less，antd等。
 
-- 熟悉前端性能优化，web开发、h5开发，hybrid开发，有web安全、网络、服务端等经验。
+- 熟悉前端性能优化，web开发、h5开发，hybrid开发，有web安全、网络、linux系统等经验。
 
 - 熟悉nodejs(egg/express)、redis等服务端开发。
 
 - 了解rax/weex、react-native等跨端开发。
 
-- 熟悉组件化、工程化开发，熟悉研发流程，良好的设计选型、前后端编码、工具开发、调试、单测测试、发布、问题跟踪、维护等能力。
+- 熟悉组件化、工程化开发，熟悉研发流程，良好的设计选型、代码编码、工具开发、调试、单测测试、发布、问题跟踪、维护等能力。
 
 - 在团队独当一面，主导团队业务线，学习能力强适应性强。良好的项目管理、需求技术评审、团队协作开发等能力。
 
