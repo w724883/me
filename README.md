@@ -41,17 +41,17 @@
 
 - **2017年11月-至今** **阿里巴巴**，高级前端工程师。
 
+  * 融媒体：
+    1. **IM建设**：C端建设、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、统一登录注册、风控平台、会议
+    2. **商城建设**：[商城B端](https://shangcheng.xuexi.cn/bmall/index.html)（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）,[商城C端](https://mall.xuexi.cn/index.html)（列表、抢购、详情、下单、支付）
+    3. **基础建设**：BFF层建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
+      
   * 手机淘宝：
     1. **手淘标签**（前端负责人）：命运石搭建平台建设，使标签平台化承接多业务方。使用端计算做推荐算法，增加导购转化率。
     2. **手淘榜单**（前端负责人）：商品类目榜会场，rax开发，承接了日常和大促期间大流量。
     3. **年货节**：负责分会场模块的开发，分会场模块前端负责人。
     4. **手淘足迹**（前端负责人）：足迹是手淘基础模块，重要的流量入口。
-
-  * 融媒体：
-    1. **IM建设**：C端建设、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、统一登录注册、风控平台、视频会议
-    2. **商城建设**：[商城B端](https://shangcheng.xuexi.cn/bmall/index.html)（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）,[商城C端](https://mall.xuexi.cn/index.html)（列表、抢购、详情、下单、支付）
-    3. **基础建设**：BFF层建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
-
+  
 - **2016年3月-2017年11月** **百度**，度秘事业部高级研发工程师。
 
   * 度秘项目：
