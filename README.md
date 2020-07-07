@@ -27,7 +27,7 @@
 
 - 熟悉前端性能优化，web开发、h5开发，hybrid开发，有web安全、网络、linux系统等经验。
 
-- 熟悉nodejs(egg/express)、redis等服务端开发。
+- 熟悉nodejs(egg/express)、redis、RESTFUL规范等服务端开发。
 
 - 了解rax/weex、react-native等跨端开发。
 
