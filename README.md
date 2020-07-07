@@ -27,13 +27,11 @@
 
 - 熟悉前端性能优化，web开发、h5开发，hybrid开发，有web安全、网络、linux系统等经验。
 
-- 熟悉nodejs(egg/express)、redis、RESTFUL规范等服务端开发。
+- 熟悉nodejs(egg/express)、redis、RESTFUL规范等服务端开发。了解rax/weex、react-native等跨端开发。
 
-- 了解rax/weex、react-native等跨端开发。
+- 熟悉组件化、工程化开发，熟悉研发流程，良好的设计选型、编码规范、工具开发、调试、单测测试、发布部署、问题跟踪、维护运维等能力。
 
-- 熟悉组件化、工程化开发，熟悉研发流程，良好的设计选型、代码编码、工具开发、调试、单测测试、发布、问题跟踪、维护等能力。
-
-- 在团队独当一面，主导团队业务线，学习能力强适应性强。良好的项目管理、需求技术评审、团队协作开发等能力。
+- 在团队独当一面，主导团队业务线，学习能力强适应性强。良好的需求技术评审、项目管理、团队协作等能力。
 
 - 个人评价：热爱技术热爱生活，热爱分享喜欢全栈，喜欢挑战喜欢创新。乐于交流乐于沟通，热情诚恳积极向上，高效学习高效工作。
 
@@ -42,14 +40,14 @@
 - **2017年11月-至今** **阿里巴巴**，高级前端工程师。
 
   * 融媒体：
-    1. **IM建设**：C端建设、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、统一登录注册、风控平台、会议
+    1. **IM建设**：C端建设、统一登录注册、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、风控平台、会议
     2. **商城建设**：[商城B端](https://shangcheng.xuexi.cn/bmall/index.html)（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）,[商城C端](https://mall.xuexi.cn/index.html)（列表、抢购、详情、下单、支付）
-    3. **基础建设**：BFF层建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
+    3. **基础建设**：BFF建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
       
   * 手机淘宝：
     1. **手淘标签**（前端负责人）：命运石搭建平台建设，使标签平台化承接多业务方。使用端计算做推荐算法，增加导购转化率。
-    2. **手淘榜单**（前端负责人）：商品类目榜会场，rax开发，承接了日常和大促期间大流量。
-    3. **年货节**：负责分会场模块的开发，分会场模块前端负责人。
+    2. **手淘榜单**（前端负责人）：商品类目榜会场，rax开发，扛下了日常和大促期间巨大流量。
+    3. **年货节**：负责分会场模块的开发及pm角色，分会场模块前端负责人。
     4. **手淘足迹**（前端负责人）：足迹是手淘基础模块，重要的流量入口。
   
 - **2016年3月-2017年11月** **百度**，度秘事业部高级研发工程师。
@@ -66,11 +64,11 @@
     4. **[到店付](https://t10sc.nuomi.com/paynow/wap/order?goods_type=1018&merchant_id=1378266)**（到店对商品进行支付）
     5. **[虚拟店铺](bainuo://component?compid=t10brands&comppage=brands)**（为KFC等品牌提供个性化店铺展示）
 
-- **2014年7月-2016年3月** **猎豹移动**，前端开发工程师。
+- **2014年7月-2016年3月** **猎豹移动**，用户体验部前端开发工程师。
     1. **[猎户广告投放系统](https://ori.cmcm.com/)**（基于大数据面向国内外广告主提供精确广告投放服务的系统平台）
     2. **[猎豹移动官网](https://www.cmcm.com/)**
     3. **动画**：[公司简介](http://cn.cmcm.com/activity/introduction)、[橙色大巴](http://api.liebao.cn/market/bus2015)、[摇一摇](http://cn.cmcm.com/activity/cm-shake)、[产品展示](http://cn.cmcm.com/activity/cm-save-space-201503)、[数据展示](http://cn.cmcm.com/activity/financial-results/2014-q4)、[抢票](http://cn.cmcm.com/activity/qp201412)、[产品功能](http://cn.cmcm.com/activity/cm-qlpd)
 
-- **2014年7月** 本科毕业，软件工程专业。
+- **2014年7月** 本科学士学位毕业，软件工程专业。
 
 - **2013年9月-2014年6月** **新浪**，北京实习一年，从事前端开发。项目经历：[新浪视频](http://video.sina.com.cn)、[手机新浪网](http://3g.sina.com.cn/?vt=4)、[新浪媒体开放平台](http://mp.sina.com.cn)
