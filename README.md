@@ -49,7 +49,7 @@
 
   * 融媒体：
     1. **IM建设**：C端建设、[OA后台](https://study.xuexi.cn/partyoa/index.html)、[bops系统](https://bops-ui.xuexi.cn/)、[客服系统](https://bmp.xuexi.cn/)、统一登录注册、风控平台
-    2. **商城建设**：C端（列表、抢购、详情、下单、支付），B端（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）
+    2. **商城建设**：[商城B端](https://shangcheng.xuexi.cn/bmall/index.html)（资源管理、商品管理、页面运营、营销配置、订单管理、对账统计、权限设置）,[商城C端](https://mall.xuexi.cn/index.html)（列表、抢购、详情、下单、支付）
     3. **基础建设**：BFF层建设（diamond、keycenter、redis、log、hsf）、[JSAPI平台](https://jsapi-pre.xxptcs.com/)、[圈人灰度平台](https://work.xuexi.cn/index)、前端监控、脚手架、发布平台
 
 - **2016年3月-2017年11月** 百度，度秘事业部高级研发工程师。
